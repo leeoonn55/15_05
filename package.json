@@ -1,0 +1,23 @@
+{
+  "name": "Zad14_08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeoonn55/Zad14_08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeoonn55/Zad14_08/issues"
+  },
+  "homepage": "https://github.com/leeoonn55/Zad14_08#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
